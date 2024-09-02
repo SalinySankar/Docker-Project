@@ -208,9 +208,9 @@
 			<url>http://3.228.2.118:8081/repository/java_release/</url>
 		</repository>
 		<snapshotRepository>
-			<id>java_release</id>
-			<name>java_release</name>
-			<url>http://3.228.2.118:8081/repository/java_release/</url>
+			<id>maven-snapshots</id>
+			<name>maven-snapshots</name>
+			<url>http://3.228.2.118:8081/repository/maven-snapshots/</url>
 		</snapshotRepository>
 	</distributionManagement>
 
