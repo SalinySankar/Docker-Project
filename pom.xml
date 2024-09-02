@@ -203,13 +203,13 @@
 
   <distributionManagement>
 		<repository>
-			<id>spring-release-repo</id>
-			<name>spring-release-repo</name>
+			<id>java_release</id>
+			<name>java_release</name>
 			<url>http://3.228.2.118:8081/repository/java_release/</url>
 		</repository>
 		<snapshotRepository>
-			<id>spring-snapshot-repo</id>
-			<name>spring-snapshot-repo</name>
+			<id>java_release</id>
+			<name>java_release</name>
 			<url>http://3.228.2.118:8081/repository/java_release/</url>
 		</snapshotRepository>
 	</distributionManagement>
